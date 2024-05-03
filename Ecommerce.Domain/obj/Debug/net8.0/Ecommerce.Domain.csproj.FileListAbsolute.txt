@@ -1,0 +1,12 @@
+C:\Users\msiva\source\repos\ConPrgKz\Ecommerce.Domain\bin\Debug\net8.0\Ecommerce.Domain.deps.json
+C:\Users\msiva\source\repos\ConPrgKz\Ecommerce.Domain\bin\Debug\net8.0\Ecommerce.Domain.dll
+C:\Users\msiva\source\repos\ConPrgKz\Ecommerce.Domain\bin\Debug\net8.0\Ecommerce.Domain.pdb
+C:\Users\msiva\source\repos\ConPrgKz\Ecommerce.Domain\obj\Debug\net8.0\Ecommerce.Domain.csproj.AssemblyReference.cache
+C:\Users\msiva\source\repos\ConPrgKz\Ecommerce.Domain\obj\Debug\net8.0\Ecommerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msiva\source\repos\ConPrgKz\Ecommerce.Domain\obj\Debug\net8.0\Ecommerce.Domain.AssemblyInfoInputs.cache
+C:\Users\msiva\source\repos\ConPrgKz\Ecommerce.Domain\obj\Debug\net8.0\Ecommerce.Domain.AssemblyInfo.cs
+C:\Users\msiva\source\repos\ConPrgKz\Ecommerce.Domain\obj\Debug\net8.0\Ecommerce.Domain.csproj.CoreCompileInputs.cache
+C:\Users\msiva\source\repos\ConPrgKz\Ecommerce.Domain\obj\Debug\net8.0\Ecommerce.Domain.dll
+C:\Users\msiva\source\repos\ConPrgKz\Ecommerce.Domain\obj\Debug\net8.0\refint\Ecommerce.Domain.dll
+C:\Users\msiva\source\repos\ConPrgKz\Ecommerce.Domain\obj\Debug\net8.0\Ecommerce.Domain.pdb
+C:\Users\msiva\source\repos\ConPrgKz\Ecommerce.Domain\obj\Debug\net8.0\ref\Ecommerce.Domain.dll

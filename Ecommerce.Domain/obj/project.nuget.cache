@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "tIMkw6bjcdvhjM6r4Tei9pxV09VTT3oX90Y2UoB0Ej6wULVGEdgSA+WwDl98OU+/sPUo1uzUDPoYWKqOXKViTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\msiva\\source\\repos\\ConPrgKz\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\msiva\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.32\\microsoft.aspnetcore.http.features.3.1.32.nupkg.sha512",
+    "C:\\Users\\msiva\\.nuget\\packages\\microsoft.build.framework\\17.9.5\\microsoft.build.framework.17.9.5.nupkg.sha512",
+    "C:\\Users\\msiva\\.nuget\\packages\\microsoft.build.utilities.core\\17.9.5\\microsoft.build.utilities.core.17.9.5.nupkg.sha512",
+    "C:\\Users\\msiva\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.32\\microsoft.extensions.primitives.3.1.32.nupkg.sha512",
+    "C:\\Users\\msiva\\.nuget\\packages\\microsoft.net.stringtools\\17.9.5\\microsoft.net.stringtools.17.9.5.nupkg.sha512",
+    "C:\\Users\\msiva\\.nuget\\packages\\system.collections.immutable\\8.0.0\\system.collections.immutable.8.0.0.nupkg.sha512",
+    "C:\\Users\\msiva\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\msiva\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\msiva\\.nuget\\packages\\system.io.pipelines\\4.7.5\\system.io.pipelines.4.7.5.nupkg.sha512",
+    "C:\\Users\\msiva\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512",
+    "C:\\Users\\msiva\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

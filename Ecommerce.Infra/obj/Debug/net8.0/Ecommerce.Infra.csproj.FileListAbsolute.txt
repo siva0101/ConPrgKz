@@ -1,0 +1,17 @@
+C:\Users\msiva\source\repos\ConPrgKz\Ecommerce.Infra\bin\Debug\net8.0\Ecommerce.Infra.deps.json
+C:\Users\msiva\source\repos\ConPrgKz\Ecommerce.Infra\bin\Debug\net8.0\Ecommerce.Infra.runtimeconfig.json
+C:\Users\msiva\source\repos\ConPrgKz\Ecommerce.Infra\bin\Debug\net8.0\Ecommerce.Infra.dll
+C:\Users\msiva\source\repos\ConPrgKz\Ecommerce.Infra\bin\Debug\net8.0\Ecommerce.Infra.pdb
+C:\Users\msiva\source\repos\ConPrgKz\Ecommerce.Infra\bin\Debug\net8.0\Ecommerce.Domain.dll
+C:\Users\msiva\source\repos\ConPrgKz\Ecommerce.Infra\bin\Debug\net8.0\Ecommerce.Domain.pdb
+C:\Users\msiva\source\repos\ConPrgKz\Ecommerce.Infra\obj\Debug\net8.0\Ecommerce.Infra.csproj.AssemblyReference.cache
+C:\Users\msiva\source\repos\ConPrgKz\Ecommerce.Infra\obj\Debug\net8.0\Ecommerce.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msiva\source\repos\ConPrgKz\Ecommerce.Infra\obj\Debug\net8.0\Ecommerce.Infra.AssemblyInfoInputs.cache
+C:\Users\msiva\source\repos\ConPrgKz\Ecommerce.Infra\obj\Debug\net8.0\Ecommerce.Infra.AssemblyInfo.cs
+C:\Users\msiva\source\repos\ConPrgKz\Ecommerce.Infra\obj\Debug\net8.0\Ecommerce.Infra.csproj.CoreCompileInputs.cache
+C:\Users\msiva\source\repos\ConPrgKz\Ecommerce.Infra\obj\Debug\net8.0\Ecommerc.B44A2B68.Up2Date
+C:\Users\msiva\source\repos\ConPrgKz\Ecommerce.Infra\obj\Debug\net8.0\Ecommerce.Infra.dll
+C:\Users\msiva\source\repos\ConPrgKz\Ecommerce.Infra\obj\Debug\net8.0\refint\Ecommerce.Infra.dll
+C:\Users\msiva\source\repos\ConPrgKz\Ecommerce.Infra\obj\Debug\net8.0\Ecommerce.Infra.pdb
+C:\Users\msiva\source\repos\ConPrgKz\Ecommerce.Infra\obj\Debug\net8.0\Ecommerce.Infra.genruntimeconfig.cache
+C:\Users\msiva\source\repos\ConPrgKz\Ecommerce.Infra\obj\Debug\net8.0\ref\Ecommerce.Infra.dll
